@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|OROPY wooden wall-mounted spice rack, 15.7 in (sold as 4-pack)|1|$9.00|[Amazon](https://www.amazon.com/dp/B0D4M37RGZ?tag=maslowcnc01-20)|
-|Total: |1|$9.00| |
+|OROPY wooden wall-mounted spice rack, 15.7 in (sold as 4-pack)|4|$36.00|[Amazon](https://www.amazon.com/dp/B0D4M37RGZ?tag=maslowcnc01-20)|
+|Total: |4|$36.00| |
