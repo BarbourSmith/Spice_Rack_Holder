@@ -1003,7 +1003,7 @@
       "ioValues": [
         {
           "name": "Hole Spacing",
-          "ioValue": 416
+          "ioValue": 442.5
         },
         {
           "name": "Hole Height",
@@ -1015,7 +1015,7 @@
         },
         {
           "name": "Shelf Pitch",
-          "ioValue": 200
+          "ioValue": 163.33333333333334
         }
       ],
       "topLevel": false,
@@ -1114,7 +1114,7 @@
           "ioValues": [
             {
               "name": "Shelf Pitch",
-              "ioValue": 200
+              "ioValue": 163.33333333333334
             }
           ],
           "topLevel": false,
@@ -1149,7 +1149,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "3*P"
@@ -1163,7 +1163,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "40 - 3*P/2"
@@ -1181,7 +1181,7 @@
                 },
                 {
                   "name": "Y_Length",
-                  "ioValue": 600
+                  "ioValue": 490
                 },
                 {
                   "name": "Radius",
@@ -1238,7 +1238,7 @@
                     },
                     {
                       "name": "height",
-                      "ioValue": 600
+                      "ioValue": 490
                     },
                     {
                       "name": "cornerRadius",
@@ -1314,7 +1314,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -260
+                  "ioValue": -205
                 },
                 {
                   "name": "zDist",
@@ -1338,7 +1338,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -260
+                  "ioValue": -205
                 },
                 {
                   "name": "zDist",
@@ -1432,7 +1432,7 @@
           "ioValues": [
             {
               "name": "Shelf Pitch",
-              "ioValue": 200
+              "ioValue": 163.33333333333334
             }
           ],
           "topLevel": false,
@@ -1467,7 +1467,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "3*P + 25"
@@ -1481,7 +1481,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "65 - (3*P + 25)/2"
@@ -1498,7 +1498,7 @@
                 },
                 {
                   "name": "y length",
-                  "ioValue": 625
+                  "ioValue": 515
                 }
               ]
             },
@@ -1518,7 +1518,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -247.5
+                  "ioValue": -192.5
                 },
                 {
                   "name": "zDist",
@@ -1535,7 +1535,7 @@
               "ioValues": [
                 {
                   "name": "Shelf Pitch",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "topLevel": false,
@@ -1570,7 +1570,7 @@
                   "ioValues": [
                     {
                       "name": "P",
-                      "ioValue": 200
+                      "ioValue": 163.33333333333334
                     }
                   ],
                   "currentEquation": "P - 25"
@@ -1584,7 +1584,7 @@
                   "ioValues": [
                     {
                       "name": "P",
-                      "ioValue": 200
+                      "ioValue": 163.33333333333334
                     }
                   ],
                   "currentEquation": "2.5 - 0.5*P"
@@ -1598,7 +1598,7 @@
                   "ioValues": [
                     {
                       "name": "P",
-                      "ioValue": 200
+                      "ioValue": 163.33333333333334
                     }
                   ],
                   "currentEquation": "2.5 - 1.5*P"
@@ -1612,7 +1612,7 @@
                   "ioValues": [
                     {
                       "name": "P",
-                      "ioValue": 200
+                      "ioValue": 163.33333333333334
                     }
                   ],
                   "currentEquation": "2.5 - 2.5*P"
@@ -1630,7 +1630,7 @@
                     },
                     {
                       "name": "Y_Length",
-                      "ioValue": 175
+                      "ioValue": 138.33333333333334
                     },
                     {
                       "name": "Radius",
@@ -1687,7 +1687,7 @@
                         },
                         {
                           "name": "height",
-                          "ioValue": 175
+                          "ioValue": 138.33333333333334
                         },
                         {
                           "name": "cornerRadius",
@@ -1747,7 +1747,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -97.5
+                      "ioValue": -79.16666666666667
                     },
                     {
                       "name": "zDist",
@@ -1771,7 +1771,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -297.5
+                      "ioValue": -242.5
                     },
                     {
                       "name": "zDist",
@@ -1795,7 +1795,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -497.5
+                      "ioValue": -405.83333333333337
                     },
                     {
                       "name": "zDist",
@@ -2267,7 +2267,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "50 - 3*P"
@@ -2288,7 +2288,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -550
+                  "ioValue": -440
                 },
                 {
                   "name": "zDist",
@@ -2417,7 +2417,7 @@
           "ioValues": [
             {
               "name": "Hole Spacing",
-              "ioValue": 416
+              "ioValue": 442.5
             },
             {
               "name": "Hole Height",
@@ -2468,7 +2468,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -208
+                  "ioValue": -221.25
                 },
                 {
                   "name": "yDist",
@@ -2562,7 +2562,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "S - 355"
@@ -2576,7 +2576,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "-S/2"
@@ -2617,7 +2617,7 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 61
+                  "ioValue": 87.5
                 }
               ]
             },
@@ -2731,7 +2731,7 @@
           "ioValues": [
             {
               "name": "Hole Spacing",
-              "ioValue": 416
+              "ioValue": 442.5
             },
             {
               "name": "Hole Height",
@@ -2795,7 +2795,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": 208
+                  "ioValue": 221.25
                 },
                 {
                   "name": "yDist",
@@ -2889,7 +2889,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "S - 355"
@@ -2903,7 +2903,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "S/2"
@@ -2970,7 +2970,7 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 61
+                  "ioValue": 87.5
                 }
               ]
             },
@@ -3104,7 +3104,7 @@
           "ioValues": [
             {
               "name": "Hole Spacing",
-              "ioValue": 416
+              "ioValue": 442.5
             },
             {
               "name": "Hole Height",
@@ -3165,7 +3165,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "-S/2"
@@ -3179,7 +3179,7 @@
               "ioValues": [
                 {
                   "name": "S",
-                  "ioValue": 416
+                  "ioValue": 442.5
                 }
               ],
               "currentEquation": "S/2"
@@ -3242,7 +3242,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -208
+                  "ioValue": -221.25
                 },
                 {
                   "name": "yDist",
@@ -3266,7 +3266,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": 208
+                  "ioValue": 221.25
                 },
                 {
                   "name": "yDist",
@@ -3379,7 +3379,7 @@
           "ioValues": [
             {
               "name": "Shelf Pitch",
-              "ioValue": 200
+              "ioValue": 163.33333333333334
             }
           ],
           "topLevel": false,
@@ -3414,7 +3414,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "47.75 - P"
@@ -3428,7 +3428,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "47.75 - 2*P"
@@ -3442,7 +3442,7 @@
               "ioValues": [
                 {
                   "name": "P",
-                  "ioValue": 200
+                  "ioValue": 163.33333333333334
                 }
               ],
               "currentEquation": "47.75 - 3*P"
@@ -3580,7 +3580,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -152.25
+                  "ioValue": -115.58333333333334
                 },
                 {
                   "name": "zDist",
@@ -3604,7 +3604,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -352.25
+                  "ioValue": -278.9166666666667
                 },
                 {
                   "name": "zDist",
@@ -3628,7 +3628,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -552.25
+                  "ioValue": -442.25
                 },
                 {
                   "name": "zDist",
@@ -4045,7 +4045,7 @@
       "y": 0.3,
       "uniqueID": "id-2312",
       "name": "Hole Spacing",
-      "value": 416
+      "value": 442.5
     },
     {
       "atomType": "Constant",
@@ -4069,7 +4069,7 @@
       "y": 0.8,
       "uniqueID": "id-2318",
       "name": "Shelf Pitch",
-      "value": 200
+      "value": 163.33333333333334
     },
     {
       "atomType": "Assembly",
@@ -4116,7 +4116,7 @@
       "ioValues": [
         {
           "name": "P",
-          "ioValue": 200
+          "ioValue": 163.33333333333334
         }
       ],
       "currentEquation": "-P"
@@ -4130,7 +4130,7 @@
       "ioValues": [
         {
           "name": "P",
-          "ioValue": 200
+          "ioValue": 163.33333333333334
         }
       ],
       "currentEquation": "-2*P"
@@ -4144,7 +4144,7 @@
       "ioValues": [
         {
           "name": "P",
-          "ioValue": 200
+          "ioValue": 163.33333333333334
         }
       ],
       "currentEquation": "-3*P"
@@ -4193,7 +4193,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -200
+          "ioValue": -163.33333333333334
         }
       ]
     },
@@ -4217,7 +4217,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -400
+          "ioValue": -326.6666666666667
         }
       ]
     },
@@ -4241,7 +4241,91 @@
         },
         {
           "name": "zDist",
-          "ioValue": -600
+          "ioValue": -490
+        }
+      ]
+    },
+    {
+      "atomType": "Label",
+      "x": 0.9,
+      "y": 0.4,
+      "uniqueID": "id-5069",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "text",
+          "ioValue": "Hole spacing 442.5 mm",
+          "currentEquation": "Hole spacing 442.5 mm"
+        },
+        {
+          "name": "startPosition",
+          "ioValue": [
+            -221.25,
+            -20,
+            110
+          ]
+        },
+        {
+          "name": "endPosition",
+          "ioValue": [
+            221.25,
+            -20,
+            110
+          ]
+        },
+        {
+          "name": "color",
+          "ioValue": "#3F3CDD",
+          "currentEquation": "#3F3CDD"
+        },
+        {
+          "name": "fontSize",
+          "ioValue": 40
+        }
+      ]
+    },
+    {
+      "atomType": "Label",
+      "x": 0.9,
+      "y": 0.6,
+      "uniqueID": "id-5077",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "text",
+          "ioValue": "Hole height 610 mm",
+          "currentEquation": "Hole height 610 mm"
+        },
+        {
+          "name": "startPosition",
+          "ioValue": [
+            -300,
+            -20,
+            -500
+          ]
+        },
+        {
+          "name": "endPosition",
+          "ioValue": [
+            -300,
+            -20,
+            110
+          ]
+        },
+        {
+          "name": "color",
+          "ioValue": "#3F3CDD",
+          "currentEquation": "#3F3CDD"
+        },
+        {
+          "name": "fontSize",
+          "ioValue": 34
         }
       ]
     }
@@ -4308,9 +4392,9 @@
       "ap2ID": "id-3417"
     },
     {
-      "ap2Name": "number or geometry",
+      "ap2Name": "geometry",
       "ap1ID": "id-2335",
-      "ap2ID": "id-1924"
+      "ap2ID": "id-5069"
     },
     {
       "ap2Name": "zDist",
@@ -4346,6 +4430,16 @@
       "ap2Name": "Shape5",
       "ap1ID": "id-3440",
       "ap2ID": "id-2335"
+    },
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-5069",
+      "ap2ID": "id-5077"
+    },
+    {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-5077",
+      "ap2ID": "id-1924"
     }
   ],
   "unitsKey": "MM",
